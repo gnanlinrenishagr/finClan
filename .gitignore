@@ -41,3 +41,6 @@ logs/
 # Local testing
 *.local.js
 *.local.ts
+
+# IDE / Editor
+.vscode/
